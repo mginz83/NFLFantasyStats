@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353526496548",
+    "firebase_url": "https://nflfantasystats-20c54.firebaseio.com",
+    "project_id": "nflfantasystats-20c54",
+    "storage_bucket": "nflfantasystats-20c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353526496548:android:5c0d76ff9a9ec0b3",
+        "android_client_info": {
+          "package_name": "net.pixeledstudio.nflfantasystats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353526496548-8q9nkqqpevlg36dcqco6im6cllc649r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAFoYaj5sI6aBrm6EJc9ZpZKXx_GtJ7k4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
